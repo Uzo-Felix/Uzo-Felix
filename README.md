@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ONYEKWELU+FELIX;I+Enjoy+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 # Hi I'm Felix.👋
 
-### I am a Software Engineering student at ALX. `I learn by doing....`
+### I Love solving problems
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
