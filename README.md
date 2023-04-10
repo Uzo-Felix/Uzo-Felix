@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
+- #### 👯 I’m open to frontend Internship/Entry level position.
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187)
 * [Twitter](https://twitter.com/Felix_Uzoch)
 * [Email](mailto:uzochukwuonyekwelu03@gmail.com)
+* [WhatsApp](https://wa.link/1sta6r)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzo-Felix&layout=compact)](https://github.com/Uzo-Felix/github-readme-stats)
 
