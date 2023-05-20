@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
-- #### 👯 I’m open to frontend Internship/Entry level position.
+- #### 👯 I’m open to frontend opportunities.
 
 # Contact 
 * [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187)
