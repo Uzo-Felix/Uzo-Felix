@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - #### 👯 I’m open to frontend opportunities.
 
 # Contact 
+* [My Resume](https://www.dropbox.com/s/5ozv9kdv4gmytis/Onyekwelu_Uzo.pdf?dl=0)
 * [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187)
 * [Twitter](https://twitter.com/Felix_Uzoch)
 * [Email](mailto:uzochukwuonyekwelu03@gmail.com)
