@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ### I Love solving problems
 
-- #### 🔭 I’m currently working on my coding skills.
 - #### 👯 I’m open to collaborate on Software Engineering projects.
-- #### 👯 I’m open to frontend opportunities.
 
 # Contact 
 * [portfolio](https://uzo-felix.github.io/myPortfolio)
