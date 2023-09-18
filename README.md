@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzo-Felix&layout=compact)](https://github.com/Uzo-Felix/github-readme-stats)
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 </div>
 
 </td></tr></table>  
-
+-->
 <br/>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uzo-Felix&show_icons=true&theme=radical)
