@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### I Love solving problems
 
-- #### 👯 I’m open to collaborate on Software Engineering projects.
+- 👯 I’m open to collaborate on Software Engineering projects.
 
 # Contact 
 * [portfolio](https://uzo-felix.github.io/myPortfolio)
