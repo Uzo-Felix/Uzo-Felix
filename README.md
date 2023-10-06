@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ONYEKWELU+FELIX;I+Enjoy+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
 
+**`Fullstack Engineer`**
+
 I'm a fullstack developer currently working with React, Next.js, Node, Express, Postgres, mySQL, prisma and mongodb. In my freetime, I learn devops and python. I’m open to collaborate on Software Engineering projects.
 
 
