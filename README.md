@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+ONYEKWELU+FELIX;I+Enjoy+Coding;I+Learn+By+Doing)](https://git.io/typing-svg)
-# Hi, Welcome.👋
 
-### I Love solving problems
+I'm a fullstack developer currently working with React, Next.js, Node, Express, Postgres, mySQL, prisma and mongodb. In my freetime, I learn devops and python. I’m open to collaborate on Software Engineering projects.
 
-- 👯 I’m open to collaborate on Software Engineering projects.
+
+[![My Skills](https://skillicons.dev/icons?i=linux,python,c,html,css,sass,js,ts,react,next,nodejs,express,postgres,sqlite,firebase,supabase,mongo,docker,bash,bootstrap,tailwind,materialui,git,markdown)](https://skillicons.dev)
 
 # Contact 
 * [portfolio](https://uzo-felix.github.io/myPortfolio)
 * [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187)
-* [Twitter](https://twitter.com/Felix_Uzoch)
 * [Email](mailto:uzochukwuonyekwelu03@gmail.com)
 * [WhatsApp](https://wa.link/1sta6r)
 
