@@ -17,14 +17,20 @@ Here are some ideas to get you started:
 
 **`Fullstack Engineer`**
 
-I'm a fullstack developer currently working with React, Next.js, Node, Express, Postgres, mySQL, prisma and mongodb. In my freetime, I learn devops and python. I’m open to collaborate on Software Engineering projects.
+I'm a Full Stack developer experienced in crafting web solutions from start to finish. Whether it's a dynamic web app, e-commerce site, or robust back end, I've got you covered.
+
+I'm proficient in a wide array of technologies, allowing me to tackle a variety of projects. Currently, I'm immersed in working with React, Next.js, Node.js, Python, Express.js, PostgreSQL, MySQL, SQLAlchemy, Prisma, and MongoDB. These tools are my trusty companions in crafting powerful and user-friendly web applications.
+
+In my free time, I'm always eager to advance my knowledge on DevOps and cloud computing. I believe that staying up-to-date with the latest trends and technologies is essential to providing the best possible solutions.
+
+Let's bring your project to life. Reach out, and let's collaborate!
 
 
 [![My Skills](https://skillicons.dev/icons?i=linux,python,c,html,css,sass,js,ts,react,next,nodejs,express,postgres,sqlite,firebase,supabase,mongo,docker,bash,bootstrap,tailwind,materialui,git,markdown)](https://skillicons.dev)
 
 # Contact 
-* [portfolio](https://uzo-felix.github.io/myPortfolio)
-* [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187)
+<!-- * [portfolio](https://uzo-felix.github.io/myPortfolio)
+* [LinkedIn](https://www.linkedin.com/in/onyekwelu-felix-42b66a187) -->
 * [Email](mailto:uzochukwuonyekwelu03@gmail.com)
 * [WhatsApp](https://wa.link/1sta6r)
 
