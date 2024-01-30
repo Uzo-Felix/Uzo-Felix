@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **`Fullstack Engineer`**
 
-I'm a Full Stack developer experienced in crafting web solutions from start to finish. Whether it's a dynamic web app, e-commerce site, or robust back end, I've got you covered.
+I'm a Full Stack developer experienced in crafting web solutions from start to finish. Whether it's a dynamic web app, e-commerce site, or robust and scalable back end, I've got you covered.
 
 I'm proficient in a wide array of technologies, allowing me to tackle a variety of projects. Currently, I'm immersed in working with React, Next.js, Node.js, Python, Express.js, PostgreSQL, MySQL, SQLAlchemy, Prisma, and MongoDB. These tools are my trusty companions in crafting powerful and user-friendly web applications.
 
